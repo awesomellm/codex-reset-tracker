@@ -1,0 +1,14 @@
+{
+  "name": "zequnweb-codex-reset-tracker",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test reset.test.mjs",
+    "example": "node example.mjs"
+  }
+}
